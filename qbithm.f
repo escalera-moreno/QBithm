@@ -1,5 +1,5 @@
 c     
-c     The software package QBithm is a creation of Dr. Luis Escalera Moreno.
+c     The software package QBithm is a creation of Dr. Luis Escalera Moreno 2023.
 c     The software package QBithm is licensed under the GNU General Public License v3.0 or later. 
 c     A copy of the license can be found at: https://github.com/escalera-moreno/QBithm/tree/main
 c     Dr. Luis Escalera Moreno requests that any result obtained through the use of the software package QBithm is accompanied 
