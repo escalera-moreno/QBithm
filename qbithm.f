@@ -1,4 +1,7 @@
-c
+c     
+c     
+c     
+c     
       program qbithm
 c
       implicit double precision (a-h,o-z)
