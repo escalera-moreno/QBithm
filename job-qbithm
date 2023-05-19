@@ -1,0 +1,7 @@
+#!/bin/bash
+#SBATCH --job-name=qbithm
+#SBATCH --output=%j.out
+#SBATCH --error=%j.err
+#SBATCH --ntasks=1
+module load mkl intel gcc/8.2
+srun ./a.out
