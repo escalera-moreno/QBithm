@@ -1,5 +1,10 @@
 c     
-c     
+c     The software package QBithm is a creation of Dr. Luis Escalera Moreno.
+c     The software package QBithm is licensed under the GNU General Public License v3.0 or later. 
+c     A copy of the license can be found at: 
+c     Dr. Luis Escalera Moreno requests that any result obtained through the use of the software package QBithm is accompanied 
+c     by the following reference: 
+c     QBithm: towards the coherent control of robust spin qubits in quantum algorithms Luis Escalera-Moreno 10.26434/chemrxiv-2023-fw96z-v2
 c     
 c     
       program qbithm
